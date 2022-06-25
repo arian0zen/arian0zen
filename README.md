@@ -10,6 +10,6 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-<img align="center" src="(http://github-readme-streak-stats.herokuapp.com?user=arian0zen&theme=prussian&hide_border=true&currStreakLabel=DDDDDD)](https://git.io/streak-stats)">
+<img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=arian0zen&theme=prussian&hide_border=true&currStreakLabel=DDDDDD)](https://git.io/streak-stats"/>
 
 
