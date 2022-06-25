@@ -21,5 +21,5 @@ You can click the Preview link to take a look at your changes.
 </tr>
 </table>
 <p align="center">
-<img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=arian0zen&theme=prussian)](https://git.io/streak-stats"/>
+<img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=arian0zen&theme=prussian"/>
 </p>
