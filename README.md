@@ -13,5 +13,5 @@ You can click the Preview link to take a look at your changes.
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=arian0zen&theme=prussian)](https://git.io/streak-stats)
 
 </div>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=arian0zen)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
