@@ -11,9 +11,7 @@ arian0zen/arian0zen is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 ## 📱 Contact Me
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arian-shaikh-3b679b240/)](https://www.linkedin.com/in/arian-shaikh-3b679b240/)   [![Leetcode Badge](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black&link=https://leetcode.com/crysish/)](https://leetcode.com/crysish/) 
-## <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> 
-ariansk90@gmail.com
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arian-shaikh-3b679b240/)](https://www.linkedin.com/in/arian-shaikh-3b679b240/)   [![Leetcode Badge](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black&link=https://leetcode.com/crysish/)](https://leetcode.com/crysish/) [![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:maitysubham4041@gmail.com)](mailto:maitysubham4041@gmail.com)
 
 
 
