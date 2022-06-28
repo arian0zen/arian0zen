@@ -4,8 +4,7 @@
 - 💞️ I’m looking to collaborate on some cool projects on dApps
 - 📫 How to reach me? this is my email: ariansk90@gmail.com -->
 
-## This is Arian || BlockChain Architecture Enthusiast
-## Solving problems both in IDE and IRL, duh || DSA
+## This is Arian || BlockChain Architecture Enthusiast <span> Solving problems both in IDE and IRL, duh || DSA
 <!---
 arian0zen/arian0zen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
