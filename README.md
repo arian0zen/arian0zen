@@ -11,7 +11,7 @@ arian0zen/arian0zen is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 ## 📱 Contact Me
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arian-shaikh-3b679b240/)](https://www.linkedin.com/in/arian-shaikh-3b679b240/)  [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&link=https://www.facebook.com/fan.of.srk.1/)](https://www.facebook.com/fan.of.srk.1/)  [![Leetcode Badge](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black&link=https://leetcode.com/crysish/)](https://leetcode.com/crysish/)  [![Hackerrank Badge](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white&link=https://www.hackerrank.com/tuhinbar02)](https://www.hackerrank.com/tuhinbar02)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arian-shaikh-3b679b240/)](https://www.linkedin.com/in/arian-shaikh-3b679b240/)   [![Leetcode Badge](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black&link=https://leetcode.com/crysish/)](https://leetcode.com/crysish/)  [!
 
 
 
