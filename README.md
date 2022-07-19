@@ -5,7 +5,7 @@
 - 📫 How to reach me? this is my email: ariansk90@gmail.com -->
 
 ## This is Arian || BlockChain Architecture Enthusiast
-![](https://komarev.com/ghpvc/?username=arian0zen&style=flat-square)
+<!--![](https://komarev.com/ghpvc/?username=arian0zen&style=flat-square) -->
 Solving problems both in IDE and IRL, duh || DSA
 <!---
 arian0zen/arian0zen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
