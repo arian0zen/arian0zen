@@ -1,5 +1,5 @@
 <!-- - 👋 Hi, I’m Arian Shaikh
-- 👀 I’m interested in BlockChain Developer
+- 👀 I am interested in BlockChain Developer
 - 🌱 I’m currently learning DSA & BlockChain Architecture
 - 💞️ I’m looking to collaborate on some cool projects on dApps
 - 📫 How to reach me? this is my email: ariansk90@gmail.com -->
