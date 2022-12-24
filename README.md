@@ -1,11 +1,7 @@
-<!-- - 👋 Hi, I’m Arian Shaikh
-- 👀 I am interested in BlockChain Developer
-- 🌱 I’m currently learning DSA & BlockChain Architecture
-- 💞️ I’m looking to collaborate on some cool projects on dApps
-- 📫 How to reach me? this is my email: ariansk90@gmail.com -->
+![image](https://prstats.vercel.app/getstats/arian0zen)
+
 
 ## This is Arian || BlockChain Architecture Enthusiast
-<!--![](https://komarev.com/ghpvc/?username=arian0zen&style=flat-square) -->
 Solving problems both in IDE and IRL, duh || DSA
 <!---
 arian0zen/arian0zen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
