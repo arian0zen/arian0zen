@@ -1,5 +1,4 @@
 
-![image](https://prstats.vercel.app/getstats/arian0zen)
 
 
 ## This is Arian || BlockChain Architecture Enthusiast
@@ -32,14 +31,15 @@ You can click the Preview link to take a look at your changes.
 <img src="https://github-readme-stats.vercel.app/api?username=arian0zen&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=tokyonight"/>
 <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=arian0zen&show_icons=true&locale=en&layout=compact&theme=tokyonight" />
 </td>
+  <td><img aligh="centre" src="http://github-readme-streak-stats.herokuapp.com?user=arian0zen&theme=prussian"/></td?
 </tr>
 </table>
 <table>
 <tr>
-<td> <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=arian0zen&theme=prussian"/>
 
 </tr>
 </table>
+<img alighn="right" src="https://prstats.vercel.app/getstats/arian0zen" width="100%" />
 
 
 
