@@ -28,9 +28,8 @@ You can click the Preview link to take a look at your changes.
 <table>
 <tr>
 <td>
-<img src="https://github-readme-stats.vercel.app/api?username=arian0zen&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=tokyonight"/>
-<td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=arian0zen&show_icons=true&locale=en&layout=compact&theme=tokyonight" />
-</td>
+<img src="https://github-readme-stats.vercel.app/api?username=arian0zen&include_all_commits=true&count_private=true&show_icons=true&line_height=25&theme=tokyonight"/>
+
   <td><img aligh="centre" src="http://github-readme-streak-stats.herokuapp.com?user=arian0zen&theme=prussian"/></td?
 </tr>
 </table>
@@ -39,7 +38,9 @@ You can click the Preview link to take a look at your changes.
 
 </tr>
 </table>
-<img alighn="right" src="https://prstats.vercel.app/getstats/arian0zen" width="100%" />
+<div align="center">
+    <img src="https://prstats.vercel.app/getstats/arian0zen" height="400">
+</div>
 
 
 
