@@ -38,9 +38,9 @@ You can click the Preview link to take a look at your changes.
 
 </tr>
 </table>
-<div align="center">
+<!-- <div align="center"> -->
 <!--     <img src="https://prstats.vercel.app/getstats/arian0zen" height="400"> -->
-</div>
+<!-- </div> -->
 
 
 
