@@ -30,7 +30,7 @@ You can click the Preview link to take a look at your changes.
 <td>
 <img src="https://github-readme-stats.vercel.app/api?username=arian0zen&include_all_commits=true&count_private=true&show_icons=true&line_height=25&theme=tokyonight"/>
 
-  <td><img aligh="centre" src="http://github-readme-streak-stats.herokuapp.com?user=arian0zen&theme=prussian"/></td?
+  <!-- <td><img aligh="centre" src="http://github-readme-streak-stats.herokuapp.com?user=arian0zen&theme=prussian"/></td?  -->
 </tr>
 </table>
 <table>
